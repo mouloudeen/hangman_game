@@ -5,7 +5,7 @@
 *
 *\date 21 avril 2023
 *\briefsheder file of the functions' core
-*\see  fonction.cpp
+*\see  fonction.c
 */
 
 #ifndef fonction_h
